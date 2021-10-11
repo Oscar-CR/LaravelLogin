@@ -244,7 +244,7 @@ return [
         ],
         [
             'text'         => 'Acerca de',
-            'url' => '#',
+            'route' => 'about',
             'icon'  => 'fas fa-fw fa-info-circle'
         ],
         [
